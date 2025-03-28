@@ -1,7 +1,7 @@
 package lib
 
 import (
-	"github.com/EnOane/cli_downloader/internal/core/interfaces"
+	"core/internal/common/interfaces"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/assert"
 	"os"
